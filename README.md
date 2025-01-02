@@ -1,5 +1,7 @@
 # Algoritmos que verificam se a lista é composta de elementos únicos
 
+Python 3.13
+
 Uma comparação dos algorimos pode ser verificada no colab abaixo:
 https://colab.research.google.com/drive/1Umndosa9BlJONWdaD-ynNoat8tJpO1O3?usp=sharing
 
